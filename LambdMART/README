@@ -1,0 +1,3 @@
+Evaluate samples with LambdMART model. 
+The pre-trained model is saved in a XML file, and input data is libsvm format.
+
